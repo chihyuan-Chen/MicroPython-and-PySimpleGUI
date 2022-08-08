@@ -13,6 +13,12 @@ Developing the path-tracking robot by using the STM32F411 development board and 
 1. CH340 driver
 2. Putty　(Confirm the UART data)
 
+#Setting
+1. We need to install dfu file in STM32F411 in order to program in micropython.
+2. First, switch STM32F411 to system memory boot mode.
+3. Then, using DfuSe software to install STM32F411 dfu file.
+4. Finally, testing some micropython example code to confirm completion
+
 #Control
 1. Building a connection between Raspberry Pi and PC.
 2. Raspberry Pi will according to the camera image to make a decision about next action.
