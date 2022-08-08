@@ -17,4 +17,4 @@ Developing the path-tracking robot by using the STM32F411 development board and 
 1. Building a connection between Raspberry Pi and PC.
 2. Raspberry Pi will according to the camera image to make a decision about next action.
 3. This decision is a series of UART commands that would send to the STM32F411 development board.
-4. After receiving, the STM32F411 will generate continuous PWM signals to motor driver, then control 5V motor
+4. After receiving, the STM32F411 will generate continuous PWM signals to motor driver, then control 5V motor.
