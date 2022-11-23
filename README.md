@@ -1,4 +1,4 @@
-# MicroPython-and-PySimpleGUI
+# Pillow-and-PySimpleGUI
 Developing the path-tracking robot by using the STM32F411 development board and Raspberry Pi 4 to connect to PC.
 
 #Prepare
